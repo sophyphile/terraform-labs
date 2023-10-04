@@ -1,44 +1,4 @@
-## Install
-
-[Install Terraform](https://learn.hashicorp.com/tutorials/terraform/install-cli#install-terraform) following the offical instructions
-
-[Install HashiCorp Terraform VSCode Instructions](https://marketplace.visualstudio.com/items?itemName=HashiCorp.terraform)
-
-We'll mostly be using AWS as the primary provider. 
-If you want to follow along for all labs you'll need accounts for:
-
-- [Amazon Web Services (AWS)](https://aws.amazon.com/)
-- [Microsoft Azure](https://azure.microsoft.com)
-- [Google Cloud Platform (GCP)](https://cloud.google.com)
-- [Spotify](https://spotify.com)
-- [Minecraft Licence](https://www.minecraft.net/en-us)
-
-AWS CLI
-Azure CLI
-Google Cloud SDK
-
-## Getting Started
-
-We are going to learn the basics of Terraform:
-- Creating main.tf
-- Add AWS Provider
-- Generate and configure AWS credentials
-- Configure an AWS Virtual Machine
-- Initialize terraform project
-- Terraform fmt
-- Terraform validate
-- Terraform plan
-- Terraform apply
-- Terraform apply (updateing)
-- Create Input Variables
-- Set Locals
-- Create Outputs
-- Use a Terraform Module
-- Divide project into multiple files
-- Terraform destroy
-- Create a Terraform Cloud workspace
-- Migrate local to remote workspace
-- Move AWS Credentials to Env Vars
+## Topics
 
 ## Provisioners
 
